@@ -1,2 +1,2 @@
-# Earth-Orbit-
+# Earth-Orbit
 Animations Using CSS3
